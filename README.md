@@ -2,4 +2,4 @@ Hey! 👋 My name is Tamara. I'm a Registered Nurse 👩🏻‍⚕️ and aspiri
 
 I'm currently undertaking several online courses, including Havard's CS50x, and hope to be able to share some personal projects soon!   
 
-Always happy to accept any advice 💞️ (you can reach me at tamkatja999@gmail.com 📫).
+Always keep for any advice 💞️ (you can reach me at tamkatja999@gmail.com 📫).
