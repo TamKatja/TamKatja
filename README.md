@@ -1,1 +1,1 @@
-Hey! 👋 My name is Tamara. I'm a Registered Nurse 👩🏻‍⚕️ and aspiring front-end web developer 👩🏻‍💻.
+Hey! 👋 My name is Tamara and I'm a self-taught front-end web developer.
