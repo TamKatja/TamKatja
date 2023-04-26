@@ -1,1 +1,1 @@
-
+Hey, I'm Tamara, a self-taught web developer with a passion for creating attractive and user-friendly websites. My coding journey began in September 2022, and since then I've completed several online courses, including Havard's CS50x, and have built a variety of personal web-based projects.
